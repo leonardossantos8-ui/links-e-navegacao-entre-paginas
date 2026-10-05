@@ -1,0 +1,159 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color: slategray;
+     padding: 30px;
+}
+
+#logo {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#menu {
+    display:flex ;
+    padding-right: 40px;
+    gap: 30px;
+}
+
+
+h1 {
+    color: black;
+}
+
+a {
+    color: black;
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#introducao {
+    display: flex;
+    background-color:rgba(98, 135, 255, 0.178);
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    gap: 50px;
+}
+
+#introducao   p {
+    padding: 20px;
+}
+
+#introducao   span {
+    padding-left: 20px;
+}
+
+#introducao   a {
+    padding: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#imagem {
+    margin-right: 100px;
+    padding: 30px;
+}
+
+#imagem p {
+    text-align: center;
+    background-color: gray;
+}
+
+#imagem img {
+    width: 600px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 57px;
+    padding: 10px;
+}
+
+#titulocards {
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    font-size: 30px;
+    padding-top: 5px;
+    font-weight: bold;
+    color: rgb(133, 109, 1);
+}
+
+#numero h3 {
+    padding-right: 50px;
+}
+
+#cards {
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#cards  p {
+    text-align: center;
+    padding: 10px;
+}
+
+.card {
+    background-color: white;
+    padding: 30px;
+    width: 30%;
+    border-radius: 20px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 20px;
+}
+
+#avance {
+    background-color: slategray;
+    text-align: center;
+    padding: 30px;
+    color: darkgray;
+}
+
+h5 {
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+#rodape {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    gap: 20px;
+}
+
+small {
+    color: white;
+    display: flex;
+}
+
+span {
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,101 @@
+Dicas gerais - zero spoilers
+Primeiramente, evite spoilers. "Dã", você diz, mas eu estou sério: esse jogo se baseia em fuçar, descobrir coisas e ser surpreendido como uma grande parte da experiência. A exploração está no coração de Hollow Knight, junto com o combate e a plataforma. Eu sugiro que, depois de ler este breve guia, você saia deste sub até terminar o jogo. Não leia outros tópicos, não pesquise nada relacionado a este jogo! E então, depois que você terminar tudo, *por favor* volte e nos conte sobre sua experiência!
+
+Exploração: medo de perder e becos sem saída
+
+Em segundo lugar, a dica geral mais importante: explore. O jogo quase não dá indicações sobre para onde ir, pois a exploração é uma parte essencial da experiência. Fuçe, entre em novos territórios, procure novas áreas e passagens, deixe o jogo te surpreender! O mapa é vasto e há muito para descobrir, desde pequenas recompensas até grandes elementos da história.
+
+Espere se sentir perdido. Como já dito antes, o jogo deixa para o jogador decidir para onde ir e dá muito pouca indicação direta. Haverá momentos em que você sentirá que explorou uma área e não saberá o que fazer a seguir. Se você não souber para onde ir, explore aquela área novamente com atenção, prestando atenção ao que pode ter perdido, especialmente saídas e caminhos que você ainda não percorreu. As chances são de que haja uma saída, e você ainda não a encontrou.
+
+E haverá momentos em que você terá mais de uma forma de seguir em frente, você *terá* que escolher uma direção em detrimento das outras, mas você ainda pode voltar mais tarde para explorar as outras opções também. Se você abordar o jogo com expectativas erradas, isso pode parecer opressivo, confuso e, para alguns, até irritante. Alguns jogadores estão acostumados a jogos que guiam muito e têm medo de perder algo importante se tomarem a direção errada ou fizerem a decisão errada. Posso garantir a você que isso não acontecerá. O jogo é projetado de forma que você realmente não perca as coisas importantes, e você sempre pode voltar para desbloquear as coisas menos óbvias. Não há nada que você possa bloquear permanentemente ou perder para sempre. Note que há *momentos* no jogo onde você terá que fazer escolhas (baseadas na história) e essas *terão* consequências, mas você saberá quando esses momentos acontecerem, não há como perder.
+
+Falando em exploração, haverá momentos em que você se deparará com um beco sem saída, ou seja, um caminho que você não pode acessar. Isso também é intencional, você deve lembrar daquela passagem e voltar mais tarde - você provavelmente desbloqueará alguma forma de passar por aquele beco sem saída em um momento futuro. É bastante óbvio como superar os obstáculos neste jogo, se você encontrar algo com o qual não sabe lidar, as chances são de que você precise de uma habilidade específica que não possui.
+
+Enquanto você explora, encontrará sinais que pode ler. *Leia-os!* Os sinais normalmente vêm de duas formas, eles dão conselhos muito imediatos e acionáveis (como mecânicas de jogo), ou são enigmáticos e relacionados à lore. Você juntará as peças sobre os últimos eventualmente, mas preste atenção ao tipo de sinais que funcionam! Você encontrará ambos os tipos de sinais na área inicial do jogo.
+
+Outra coisa importante que você deve ficar de olho, ou melhor, de *ouvido*, são os sons! A música deste jogo é linda, mas o design sonoro também é uma parte essencial da experiência de exploração e jogabilidade. Os sons podem revelar coisas que você não consegue ver imediatamente, sejam inimigos, NPCs ou até mesmo passagens escondidas!
+
+E se você realmente *estiver* preso, você pode abrir um tópico onde pede direções livres de spoilers. Para ajudar os outros usuários a te darem um empurrão certo, por favor, adicione capturas de tela da área em que está, o mapa e talvez até seu inventário. Mas esteja preparado para receber várias respostas dizendo para você apenas jogar o jogo, porque, honestamente, essa é a resposta certa na maioria das vezes. Haverá muitos momentos em que o jogo te provocará com coisas que você não sabe o que significam ou como fazer. Como dito acima, apenas faça uma anotação mental e continue jogando, você *vai* descobrir mais cedo ou mais tarde. Essa é parte da diversão!
+
+Última dica geral: espere morrer. Bastante, na verdade. O jogo é desafiador, tanto na plataforma quanto no combate. Existe uma mecânica que permite você curar , não se esqueça de usá-la regularmente! Mas mesmo assim, você provavelmente morrerá. Se você morrer, deixará sua sombra e todo o seu dinheiro para trás. Você pode recuperar tudo voltando ao lugar onde morreu e matando sua sombra. Mas se você morrer novamente enquanto tenta voltar para sua sombra, você perderá todo o dinheiro que sua sombra tinha. Mais uma vez: espere que isso aconteça, provavelmente mais de uma vez. Todos nós já passamos por isso. A boa notícia é que o dinheiro parece muito importante e escasso durante a primeira parte do jogo, mas não é. Pelo contrário, você acaba ganhando bastante dinheiro passivamente apenas explorando e progredindo no jogo, porque os inimigos o soltam e é uma recompensa comum por alcançar novas áreas (especialmente uma vez que você já passou das primeiras áreas). Claro, perder milhares de geo por causa de um erro é chato, mas não vale a pena desistir do jogo por causa disso.
+
+Dicas de Gameplay - spoilers muito leves
+Esta seção é sobre mecânicas de jogo que você deve descobrir por conta própria rapidamente, mas pode ser um pé no saco se não.
+
+Comandos de combate
+
+Uma informação que pode ser útil se você não descobrir por conta própria, é que você pode cortar para cima segurando para cima e pressionando o botão de ataque . Você pode fazer isso estando em pé, andando ou até mesmo pulando. Enquanto pula, você também pode cortar para baixo ! Isso é muito útil porque você pode quicar em inimigos e alguns obstáculos ao atingí-los quando está acima deles! É chamado de "pogo-ing" . Falando em movimento, eu pessoalmente prefiro jogar Hollow Knight usando o D-pad em vez do controle analógico. A plataforma é muito reativa e precisa, e sinto que tenho melhor controle usando o pad, especialmente quando tenho que atacar para cima ou para baixo.
+
+Mecânicas de respawn de inimigos
+
+Outra dica de gameplay é que existem dois tipos de inimigos (três contando os chefes): existem os inimigos mais fracos que ressurgem se você sair da sala em que estão , e outros (geralmente mais fortes) que só ressurgem quando você descansa em um banco .
+
+Sobre os chefes
+
+O jogo tem uma série de lutas contra chefes, que (sem surpresas) estão entre as partes mais desafiadoras da jogabilidade. Espere morrer algumas vezes antes de pegar o jeito, mas se você estiver tendo dificuldades, pode estar usando a abordagem errada. Os chefes têm um padrão de ataque e geralmente sinalizam seus movimentos. Você precisa ser paciente, aprender os padrões, saber como evitar os ataques e encontrar os momentos em que pode desferir um golpe. Se você tiver dificuldades em uma luta, tente se concentrar apenas em desviar por algumas tentativas, aprenda os padrões de ataque e pratique não levar dano. Uma vez que você esteja confortável em desviar dos ataques, tente fazer um único ataque de vez em quando. Não se apresse, um golpe por vez é muitas vezes a única janela que você tem. Você também aprenderá quando tem a chance de curar. Além disso, use suas habilidades, especialmente feitiços . Demorei um pouco para me acostumar a usá-los, mas eles podem tornar as lutas contra chefes muito mais fáceis. Seja paciente, mantenha a concentração e você conseguirá!
+
+Mais adiante, compilei dicas específicas contra chefes que representam um aumento de dificuldade e contra os quais várias pessoas têm dificuldades. Se um chefe específico estiver te dando trabalho, consulte essa parte.
+
+E se você realmente sentir que está tendo dificuldades demais com um chefe, vá explorar em outro lugar e volte para ele mais tarde. Você pode encontrar upgrades que tornam a luta mais fácil, mas mesmo apenas fazer algo diferente como explorar ou pular pode ajudar como uma pausa para redefinir sua mentalidade e voltar renovado para o chefe.
+
+E se isso também não funcionar, considere fazer uma pausa do jogo em si. Não é uma corrida, é um jogo e você não deve se estressar com isso. Relaxe, coma, durma um pouco, talvez deixe o jogo de lado completamente por alguns dias (ou mais). E quando você se sentir à vontade, volte novamente. Há muitas pessoas que não conseguem vencer o jogo de primeira, fazem uma pausa (mesmo de meses ou anos) e quando jogam novamente, não apenas vencem o jogo, mas se apaixonam completamente por ele!
+
+Agora, algumas dicas específicas:
+
+Dicas para o início do jogo - spoilers para as primeiras horas de gameplay
+Como já dito antes, esta parte mencionará algumas coisas que você desbloqueará nas primeiras horas de gameplay. Você pode ignorar isso se quiser jogar completamente às cegas, mas essas são dicas úteis para evitar se perder ou perder coisas que são óbvias para a maioria dos jogadores, mas não para todos.
+
+Itens úteis para o início do jogo
+
+Você em breve desbloqueará uma loja na cidade onde pode comprar um mapa e uma pena . Isso é uma das coisas que você deve comprar primeiro, e economize geo para obter ASAP. Quando você comprar o mapa e a pena, seu mapa será periodicamente atualizado com as novas áreas que descobrir. No mapa atualizado, é fácil ver quais salas têm saídas que você ainda não visitou. Você pode usar o mapa para decidir para onde ir a seguir, apenas explore e descubra novas áreas - e quando se sentir preso, procure aberturas em outras áreas do mapa que você ainda não visitou
+
+Falando sobre o mapa , outro item muito útil que você deve adquirir bem cedo é a Bússola. Ela permite que você veja sua posição no mapa em tempo real, o que ajuda muito na orientação, especialmente até você se familiarizar mais com o mundo.
+
+Na loja você também pode comprar marcadores que pode colocar no mapa para marcar coisas importantes . Uma boa dica é marcar áreas que você não consegue acessar e que quer voltar depois. Eles vêm em cores diferentes, você pode usar as cores para marcar áreas com características semelhantes (como passagens bloqueadas, ou inimigos que você não consegue ultrapassar, ou saídas que você não consegue alcançar)
+
+Essa é preferência pessoal, mas acho que um encanto muito útil para novos jogadores é Gathering Swarm. É um encanto que coleta automaticamente geo ao seu redor. É útil porque permite que você se concentre na exploração e no combate, e também resolve o problema do geo caindo em lugares que você não consegue alcançar (como em fossos com espinhos)
+
+Outro item que vale a pena guardar para o início (ainda que custe um pouco) é a lanterna . Você não precisará dela nas áreas iniciais, mas ficará feliz em tê-la quando precisar.
+
+Mais uma coisa que acho que vale a pena mencionar para o início do jogo é que no lado direito de Dirtmouth há uma porta que você pode abrir com uma chave simples . A porta leva a uma caverna onde você encontra o Confessor Jiji, um NPC que pode invocar seu fantasma de qualquer lugar do mapa em troca de um ovo podre. Se seu fantasma ficar preso em uma área perigosa, ou se estiver em uma área da qual você ainda não tem o mapa, você pode pagar ao Confessor Jiji para recuperar seu fantasma. Isso é especialmente útil se você tinha muito geo antes de morrer e sente que poderia morrer novamente enquanto tenta voltar ao seu fantasma. Este é o único uso para ovos podres, então não economize eles!
+
+Sobre o geo, há uma pequena dica para evitar perder muito quando você morre: espalhados pelo mundo, você encontrará itens que você não saberá como usar (como diários de viajante ). O único propósito deles é que você pode vendê-los a um NPC específico que encontrará mais adiante no jogo , mas a boa notícia é que você não os perde quando morre . Uma estratégia para reduzir a perda de dinheiro após a morte é vender apenas esses itens (que valem bastante) quando precisar gastar o geo que ganhar. Desde que você não precise do geo, mantenha-os em seu inventário. Ah, e mais uma coisa sobre esses itens que algumas pessoas perdem: quando você vendeu-los , o NPC a quem você os vende dá pequenas informações sobre a lore. Preste atenção ao diálogo se estiver interessado na história do jogo!
+
+Há também uma outra maneira de manter seu dinheiro seguro que você encontrará em uma das áreas iniciais (embora não nas primeiras) , use-a! É um NPC que oferece um serviço de banco
+
+As duas últimas coisas que quero dizer, porque sei que algumas pessoas perderam, dizem respeito ao final do jogo. O jogo tem mais de um final (obviamente não vou estragar os finais, você pode continuar lendo) . Em algum momento você saberá o que fazer para ativar o final do jogo. O jogo lhe dará uma "missão" muito clara. Não tenha medo de fazê-lo, mesmo que você seja um completista que deseja desbloquear e explorar tudo antes de progredir na missão principal. Vencer o jogo não irá te bloquear de nada! Pelo contrário, há um final do qual você pode se bloquear se explorar demais e alcançar uma certa área no final do jogo. É improvável, mas definitivamente não é impossível, especialmente se você for um completista como eu. Como já dito, não se preocupe em ir e enfrentar o chefe final. Uma vez que você o derrote, poderá carregar o último ponto de salvamento e explorar ainda mais! Alguns jogadores acham a luta contra o chefe final bastante decepcionante (em termos de dificuldade). Isso é intencional e há um motivo para isso, que se tornará mais claro quando você desbloquear os outros finais. Continue jogando!!<
+
+Informações sobre pontos específicos no jogo que as pessoas costumam perguntar
+Área: Cânion da Névoa
+
+No Cânion da Névoa, há uma passagem que está bloqueada por esta parede preta: LINK. Isso é algo que você poderá passar mais tarde no jogo, na primeira vez que chegar lá você não poderá fazer nada. Vá explorar em outro lugar.
+
+Área: Lixos Fúngicos
+
+Nos Lixos Fúngicos, há um pequeno lago de ácido que leva a uma saída: LINK. Isso é outra coisa que você poderá fazer mais tarde, por agora você terá que progredir em outro lugar.
+
+Área: Ninho Profundo
+
+No Ninho Profundo, você encontrará um rosto familiar: LINK. Siga-os!
+
+Chefes desafiadores
+Acho que vale a pena listar alguns chefes com os quais muitas pessoas têm dificuldades, porque de vez em quando as pessoas sentem que atingem um bloqueio e isso é culpa delas, enquanto na verdade encontraram uma luta contra um chefe que é mais difícil que os outros. Esses chefes são lutas realmente difíceis, com as quais muitas pessoas têm dificuldades. Você não está fazendo algo errado, consulte a seção anterior sobre chefes, tenha paciência e você deve ficar bem.
+
+Área: Cruzadas Esquecidas - Subárea Grande sala central acima da Estação, há um ícone no mapa mostrando a localização deste chefe Chefe: Cavaleiro Falso Este não é um chefe particularmente difícil, já que é o primeiro chefe obrigatório do jogo, e o propósito desta luta é te ensinar o básico. Eles são grandes, seus ataques são lentos e claramente sinalizados. Como já disse algumas vezes, seja paciente, aprenda os padrões de ataque e desferir um golpe de cada vez.
+
+Área: Caminho Verde - Subárea >!Grande sala acima da Estação, há um ícone no mapa com três pilares< Chefe: Hornet A segunda luta contra um chefe obrigatório, e as mesmas regras se aplicam. Este chefe se move muito e tem vários ataques diferentes, que não são fáceis de prever. Seja deliberado com seus saltos (não saia pulando aleatoriamente), concentre-se em desviar dos ataques no chão e tome cuidado quando eles pulam em uma parede, pois eles vão te atingir se você estiver muito próximo. Use seu feitiço! Além disso, esse chefe tem um ataque onde ele fica em um canto da arena e arremessa sua arma. Se você estiver do lado oposto da arena e for rápido o suficiente, você pode curar!
+
+Área: Cruzadas Esquecidas - Subárea (escondida) No extremo esquerdo, ao lado do poço vertical Chefe: Brooding Mawlek Este é um chefe que você pode alcançar muito cedo no jogo, sem upgrades nenhum, se fizer uma seção de plataforma complicada (você tem que quicar em espinhos nas laterais de uma seção vertical ). Pelo que entendi, aquela área é destinada a ser alcançada mais tarde, e o chefe lá foi equilibrado para ser lutado com alguns upgrades. Há pessoas que o derrotaram no início do jogo, mas é um chefe opcional e se você se deparar com ele e tiver dificuldades, pode deixá-lo para depois e voltar mais tarde.
+
+Área: Cidade das Lágrimas - Subárea Santuário das Almas - Chefe: Mestre das Almas : Este é um chefe difícil, e o último naquilo que eu considero a primeira parte do jogo. Alguns de seus ataques são difíceis de desviar, mas podem ser gerenciados com um pouco de prática. Também há uma boa distância entre o banco mais próximo e a luta, tente encher seu alma nos inimigos mais fracos daquela área para que você possa curar antes de entrar na luta contra o chefe.
+
+Área: Cidade das Lágrimas - Subárea Torre do Observador - Chefe: Cavaleiros Vigilantes : Dica: há uma maneira de facilitar a luta: olhe ao redor na pequena sala antes da luta . Além disso, é uma luta difícil, e não há realmente um truque. Consulte a seção sobre chefes, mantenha-se concentrado, aprenda a se desviar e seja paciente.
+
+Área: Ninho Profundo - Chefe: Nosk : Semelhante ao primeiro chefe nesta lista, você pode chegar a este com pouco nível (certamente eu cheguei!). É um chefe opcional e se você achar muito difícil, pode deixá-lo e voltar mais tarde.
+
+Área: Bacia Antiga - Chefe: Vessel Quebrado : Este é outro difícil, por causa de seus muitos projéteis. Não há uma maneira fácil de lidar com isso, aprenda os ataques, aprenda a desviar, desferir um golpe de cada vez.
+
+Área: Margem do Reino - Subárea No extremo direito - Chefe: Sentinela Hornet : Outro chefe difícil. Seja deliberado com seus saltos. Você pode atingir as armadilhas para destruí-las . Feitiços são úteis nesta luta.
+
+Considerações Finais
+Estas são as dicas que eu considero mais importantes para novos jogadores, reunidas a partir da minha própria experiência e de outros posts semelhantes neste sub. Espero que sejam úteis, e se você está prestes a começar sua jornada, nos vemos novamente depois que você completar o jogo!
